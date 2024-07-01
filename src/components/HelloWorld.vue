@@ -8,13 +8,13 @@ defineProps({
 const count = ref(0)
 </script>
 <template>
- <h1>PixelBoard Privacy Policy</h1>
+ <h1>Pixel Canvas Privacy Policy</h1>
   <p>Last updated: June 17, 2024</p>
    <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
    <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p> 
    <h2>Definitions</h2> 
    <p>For the purposes of this Privacy Policy:</p> 
-   <p>Application refers to PixelBoard, the software program provided by the Company.</p> 
+   <p>Application refers to Pixel Canvas, the software program provided by the Company.</p> 
    <p>Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Guangzhou Hongsoft Technology Co., LTD, No. 684, 30th Floor, Xihu Commercial Building, No. 12 Xihu Road, Yuexiu District, Guangzhou (Office only).</p> 
    <p>Country refers to: China</p> 
    <p>If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p> 
